@@ -1,0 +1,14 @@
+C:\Users\davim\Documents\AppSimuladorMedia\bin\Debug\AppSimuladorMedia.exe.config
+C:\Users\davim\Documents\AppSimuladorMedia\bin\Debug\AppSimuladorMedia.exe
+C:\Users\davim\Documents\AppSimuladorMedia\bin\Debug\AppSimuladorMedia.pdb
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.csproj.AssemblyReference.cache
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.Form1.resources
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.Formulários.FormSimularMedia.resources
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.Properties.Resources.resources
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.csproj.GenerateResource.cache
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.csproj.CoreCompileInputs.cache
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.exe
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.pdb
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.Formulários.FormNotaMinima.resources
+C:\Users\davim\Documents\AppSimuladorMedia\obj\Debug\AppSimuladorMedia.Formulários.FormMediaFinal.resources
